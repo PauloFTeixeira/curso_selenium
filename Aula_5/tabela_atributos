@@ -1,0 +1,13 @@
+                OPERADORES                              SIGNIFICADO
+                     
+                     =                             deve ser exatamente igual                                        
+
+                    *=                                  deve ocorrer em
+
+                    |=                             deve ser exatamente ou iniciar
+
+                    ^=                                    iniciado em
+
+                    $=                                   terminado em
+                    
+                    ~=                              um deve ser exatamente igual
